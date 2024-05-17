@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/10yjTup0f8Qykk49b-FRZPCl0xbLs7ECJ
 """
 
-!pip install --upgrade pip
+pip install --upgrade pip
 
 !pip install streamlit
 !pip install scikit-learn
